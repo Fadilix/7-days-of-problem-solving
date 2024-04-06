@@ -15,7 +15,6 @@ Each day has its folder and in each one of them we can have two folders
       <th style="width: 40%;">Solution</th>
     </tr>
   </thead>
-  <tbody>
     <tr>
       <td rowspan="2">Day 1</td>
       <td><a href="https://open.kattis.com/contests/nktuse/problems/addingtrouble">____A____</a></td>
@@ -75,5 +74,3 @@ Each day has its folder and in each one of them we can have two folders
       <td><a href="https://open.kattis.com/contests/orx84m/problems/textencryption">____B____</a></td>
       <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%236/B.py">____B____</a></td>
   </tr>
-  </tbody>
-</table>
