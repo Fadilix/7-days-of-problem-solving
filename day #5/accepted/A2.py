@@ -9,7 +9,7 @@ n = int(input())
 
 def randomName():
     return "".join(random.choice(vowels) + random.choice(consonants) for _ in range(5))
-
+import math
 
 names = set()
 while len(names) < n:
