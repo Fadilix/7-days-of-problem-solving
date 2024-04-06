@@ -64,7 +64,16 @@ Each day has its folder and in each one of them we can have two folders
     <tr>
       <td><a href="https://open.kattis.com/contests/zrkr6u/problems/guess">____B____</a></td>
       <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%235/accepted/B2.py">____B____</a></td>
+      
   </tr>
-
+      <tr>
+      <td rowspan="2">Day 6</td>
+      <td><a href="https://open.kattis.com/contests/orx84m/problems/fizzbuzz2">____A____</a></td>
+      <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%236/A.py">____A____</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://open.kattis.com/contests/orx84m/problems/textencryption">____B____</a></td>
+      <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%236/B.py">____B____</a></td>
+  </tr>
   </tbody>
 </table>
