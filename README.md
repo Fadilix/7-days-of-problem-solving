@@ -1,5 +1,5 @@
 # 7 Days of Problem Solving
-This program consists of a 7 day marathon where we solve 2 problems a day. The problems get increasingly tougher as we go !
+This program consists of a 7 day coding marathon where we solve 2 problems a day. The problems get increasingly tougher as we go !
 ## Folder structure
 Each day has its folder and in each one of them we can have two folders
 - `accepted` : for the propostions that validate all the test cases
