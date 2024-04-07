@@ -10,7 +10,7 @@ with open("day7links.txt", "r") as f:
     ) = f.readlines()
 
 challengeDayTemplate = f"""<tr>
-      <td rowspan="2">Day {day}</td>
+      <td rowspan="3">Day {day}</td>
       <td><a href="{problemALink}">____A____</a></td>
       <td><a href="{problemASolution}">____A____</a></td>
     </tr>
