@@ -73,4 +73,21 @@ Each day has its folder and in each one of them we can have two folders
     <tr>
       <td><a href="https://open.kattis.com/contests/orx84m/problems/textencryption">____B____</a></td>
       <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%236/B.py">____B____</a></td>
-  </tr>
+  </tr><tr>
+      <td rowspan="2">Day 7</td>
+      <td><a href="https://open.kattis.com/contests/kq7sz9/problems/primalrepresentation
+">____A____</a></td>
+      <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/A3.py
+">____A____</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://open.kattis.com/contests/kq7sz9/problems/doublepassword
+">____B____</a></td>
+      <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/B.py
+">____B____</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://open.kattis.com/contests/kq7sz9/problems/velkomin
+">____C____</a></td>
+      <td><a href="https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/C.py">____C____</a></td>
+    </tr>

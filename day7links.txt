@@ -1,0 +1,6 @@
+https://open.kattis.com/contests/kq7sz9/problems/primalrepresentation
+https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/A3.py
+https://open.kattis.com/contests/kq7sz9/problems/doublepassword
+https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/B.py
+https://open.kattis.com/contests/kq7sz9/problems/velkomin
+https://github.com/Fadilix/7-days-of-problem-solving/blob/main/day%20%237/accepted/C.py
